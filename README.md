@@ -1,5 +1,8 @@
 # TypeScipt Demo
 
+Companion demo repository for the below article:
+http://codehangar.io/exploring-typescript/
+
 Based off of the getting started tutorial found here https://www.typescriptlang.org/docs/tutorial.html
 
 ## Running the app
